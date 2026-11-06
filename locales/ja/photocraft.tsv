@@ -3052,7 +3052,7 @@ fontWeight	Thin	極細
 	Added swatch {name}	スウォッチ {name} を追加しました
 	Adobe-rgb-compat	Adobe-rgb-compat
 	Adwaita (Dark)	Adwaita (Dark)
-	Adwaita (Light)	Adwaita (ライト)
+	Adwaita (Light)	Adwaita (Light)
 	After	後
 	All shortcuts reset to Photoshop defaults.	すべてのショートカットを Photoshop のデフォルトにリセットしました。
 shape	Appearance	外観
@@ -3212,7 +3212,7 @@ cameraRaw	Hue	色相
 	Input Levels	入力レベル
 	Intent	レンダリングインテント
 	Invalid panel layout; restored the default dock	パネルレイアウトが無効です。既定のドックを復元しました。
-colorRange	Invert	階調の反転
+colorRange	Invert	反転
 	Invert Selection	選択範囲を反転
 	Join the ArtCraft Discord ({url})	ArtCraft Discord に参加 ({url})
 	Keyboard	キーボード
