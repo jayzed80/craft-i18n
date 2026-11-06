@@ -3040,7 +3040,7 @@
 	0 fastest, 8 smallest	0 le plus rapide, 8 le plus petit
 	A file dialog is already open	Une boîte de dialogue de fichier est déjà ouverte
 	Compression Level	Niveau de compression
-	Couldn't open your web browser	Il n'a pas été possible d'ouvrir votre navigateur web
+	Couldn't open your web browser	Impossible d’ouvrir votre navigateur web
 	Docking Action	Action d'accrochage
 	DPX	DPX
 	DPX Sequence	Séquence DPX
@@ -3082,6 +3082,6 @@
 	Open a sequence to search its graphics	Ouvrir une séquence pour rechercher ses graphiques
 	Reset Interface Zoom	Réinitialiser le zoom d'interface
 	Show Duplicate Frame Markers	Afficher les marqueurs d'images dupliquées
-	Track Color	Track Color
-	Transparency Grid	Transparency Grid
+	Track Color	Couleur de la piste
+	Transparency Grid	Grille de transparence
 	Work Area Bar	Barre de zone de travail
