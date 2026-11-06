@@ -298,9 +298,9 @@ wordcraft	Writing and document design	Rédaction et mise en forme de documents
 	Last updated: {date}	Dernière mise à jour : {date}
 	More actions for {name}	Plus d'actions pour {name}
 	Name (Z–A)	Nom (Z–A)
-	Next app	App suivante
+	Next app	Application suivante
 	On Linux, custom folders use AppImage format.	Sous Linux, les dossiers personnalisés utilisent le format AppImage.
-	Previous app	App précédente
+	Previous app	Application précédente
 	Recently updated	Récemment mis à jour
 	Show {n} more changes	Afficher {n} modifications supplémentaires
 @msg	{name} was installed from the AUR ({pkg}). Update it with {cmd}	{name} a été installé depuis l'AUR ({pkg}). Mettez-le à jour avec {cmd}
