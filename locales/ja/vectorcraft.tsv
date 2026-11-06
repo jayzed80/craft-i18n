@@ -4081,7 +4081,7 @@ swatch	Yellow Green	イエローグリーン
 	[PDF/X-1a:2001]	[PDF/X-1a:2001]
 	[PDF/X-3:2002]	[PDF/X-3:2002]
 	[PDF/X-4:2010]	[PDF/X-4:2010]
-	[Press Quality]	[プレス品質]
+	[Press Quality]	[印刷品質]
 	[Smallest File Size]	[最小ファイルサイズ]
 	[VectorCraft Default]	[VectorCraft デフォルト]
 	A3	A3
@@ -4217,7 +4217,7 @@ swatch	Yellow Green	イエローグリーン
 	Maximize Editability	編集のしやすさを優先
 	Medium Resolution	中解像度
 	Menu Commands	メニューコマンド
-	Mojikumi	Mojikumi
+	Mojikumi	文字組み
 	Monochromatic	単色
 	Muted	ミュート
 	Name 40%	Name 40%
@@ -4248,13 +4248,13 @@ swatch	Yellow Green	イエローグリーン
 	Phone 375×812	Phone 375×812
 	Phone 393×852	Phone 393×852
 	Phone 412×915	Phone 412×915
-	Phone 430×932	電話 430×932
+	Phone 430×932	Phone 430×932
 	Placed Document	配置されたドキュメント
 	Plus	プラス
 effect	Points	ポイント
 	Points:	ポイント:
 	Portrait (flipped)	縦向き（反転）
-	Positive	ポジティブ
+	Positive	ポジ
 	Poster 18 × 24 in	ポスター 18 × 24 in
 	Poster 24 × 36 in	ポスター 24 × 36 in
 	Preserve Appearance	アピアランスを保持
@@ -4285,7 +4285,7 @@ effect	Regular	標準
 	Scale X	水平方向に拡大・縮小
 	Scale X:	水平方向のスケール：
 	Scale Y	垂直方向に拡大・縮小
-	Scale Y:	Y 方向の拡大・縮小:
+	Scale Y:	垂直方向のスケール：
 	Scissors	はさみ
 	Selected Slices	選択したスライス
 	Selected Styles Only (0)	選択したスタイルのみ (0)
@@ -4547,8 +4547,8 @@ effect	Regular	標準
 	Reticulation…	レティキュレーション…
 	Rough Pastels	粗いパステル
 	Rough Pastels…	粗いパステル…
-	Ruby	ルビー
-	Ruby…	ルビー…
+	Ruby	ルビ
+	Ruby…	ルビ…
 	Save and Close	保存して閉じる
 	Scale Text Attributes	テキスト属性をスケール
 	Scatter Brush	散布ブラシ
