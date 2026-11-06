@@ -3090,11 +3090,11 @@
 	AV1 needs a hardware encoder; none was found on this machine, and FilmCraft has no software AV1 encoder yet.	AV1 にはハードウェアエンコーダーが必要ですが、このマシンでは見つかりませんでした。FilmCraft にはソフトウェア AV1 エンコーダーがまだありません。
 	Delete Redoable Actions	やり直し可能な操作を削除
 	Delete the dimmed actions after the current state? They cannot be redone.	現在の状態より後の淡色表示の操作を削除しますか？やり直すことはできません。
-	Duration: {tc}	デュレーション: {tc}
+	Duration: {tc}	長さ: {tc}
 	End: {tc}	終了: {tc}
 	H.265 (HEVC) needs a hardware encoder (NVENC on NVIDIA GPUs, VideoToolbox on macOS); none was found on this machine, and FilmCraft has no software H.265 encoder yet. Choose H.264 or ProRes instead.	H.265 (HEVC) にはハードウェアエンコーダー (NVIDIA GPU では NVENC、macOS では VideoToolbox) が必要ですが、このマシンでは見つかりませんでした。また、FilmCraft にはソフトウェアの H.265 エンコーダーがまだありません。H.264 または ProRes を選択してください。
 	No matching text.	一致するテキストはありません。
-	No text graphics in this sequence. Add text with the Type tool.	このシーケンスにテキストグラフィックはありません。文字ツールでテキストを追加してください。
+	No text graphics in this sequence. Add text with the Type tool.	このシーケンスにテキストグラフィックはありません。テキストツールでテキストを追加してください。
 	Open a sequence to search its graphics	シーケンスを開いてグラフィックを検索します
 	Reset Interface Zoom	インターフェースのズームをリセット
 	Show Duplicate Frame Markers	重複フレームマーカーを表示

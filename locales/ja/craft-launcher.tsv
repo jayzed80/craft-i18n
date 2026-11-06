@@ -301,7 +301,7 @@ wordcraft	Writing and document design	文書作成とデザイン
 	It's in the tray: open it or quit it from the tray icon, or turn this off in the settings.	トレイで実行中です。トレイのアイコンから開くか終了できます。この動作は設定でオフにできます。
 	Last updated: {date}	最終更新: {date}
 	More actions for {name}	{name} のその他の操作
-	Name (Z–A)	名前 (Z～A)
+	Name (Z–A)	名前 (Z–A)
 	Next app	次のアプリ
 	On Linux, custom folders use AppImage format.	Linux では、カスタムフォルダーに AppImage 形式が使われます。
 	Previous app	前のアプリ
