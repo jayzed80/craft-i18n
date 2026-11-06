@@ -243,6 +243,16 @@ product's localisation consulted. **No native speaker has reviewed these rows.**
 neutral, standard short forms; "Hong Kong SAR" and "Macao SAR" use each locale's word for special
 administrative region.
 
+## WordCraft: the Watermark dialog strings (storytold/wordcraft#5735)
+
+Eight rows in `wordcraft.tsv` of every locale that has one (35): "No watermark", "Picture
+watermark", "Text watermark", "Select Picture…", "Washout", "Semitransparent", "Transparency:" and
+"Select a picture first.", next to each catalog's existing watermark rows. Where a catalog already
+had "Washout" its wording is kept (11 locales). Contributor: Martin Ball with Claude Code (Claude
+Sonnet 5.5), AI-assisted: written by the model from the plain meaning of the English, reusing each
+catalog's own words for watermark, picture and transparency, with no other product's localisation
+consulted. **No native speaker has reviewed these rows.**
+
 ## Language data
 
 Every file under `language-data/` ([ADR 0004](docs/adr/0004-third-party-language-data.md),
