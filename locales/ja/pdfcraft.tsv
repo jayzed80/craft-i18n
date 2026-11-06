@@ -3847,7 +3847,7 @@ certificate	Basic constraints	基本制約
 	Copy to clipboard	クリップボードにコピー
 	Create folder	フォルダーを作成
 	Create links	リンクを作成
-	Creator	作成者
+	Creator	作成アプリケーション
 	CRL Signing	CRL署名
 	Cut and stack needs Two-sided: Off. Print single-sided sheets.	「切り出しとスタック」には「両面印刷：オフ」が必要です。片面シートを印刷してください。
 	Data Encipherment	データ暗号化
@@ -3873,11 +3873,11 @@ calendar date	February	2月
 	Field "{}" on page {p} has no description (tooltip)	ページ {p} のフィールド「{}」には説明がありません (ツールチップ)
 	Filename	ファイル名
 	Finish composing text before applying this action.	このアクションを適用する前に、テキストの作成を完了させてください。
-	Font (unnamed) on page {p} doesn't map its characters to Unicode	ページ {p} のフォント (unnamed) は文字を Unicode にマッピングしていません
+	Font (unnamed) on page {p} doesn't map its characters to Unicode	ページ {p} のフォント (名称なし) は文字を Unicode にマッピングしていません
 	Font {} on page {p} doesn't map its characters to Unicode	ページ {p} のフォント {} は文字を Unicode にマッピングしていません
 	Form field on page {p} isn't tagged	ページ {p} のフォームフィールドにタグがありません
 	form fill	フォーム入力
-calendar weekday	Fr	Fr
+calendar weekday	Fr	金
 	Help…	ヘルプ…
 	H{n} follows an H{d}; headings should not skip levels	H{n} が H{d} の後に続いています。見出しのレベルを飛ばさないでください
 	Inserted text	挿入されたテキスト
@@ -3915,7 +3915,7 @@ calendar date	November	11月
 calendar date	October	10月
 	of	の
 	Open a PDF (⌘O)	PDFを開く (⌘O)
-	Open folder	フォルダを開く
+	Open folder	フォルダーを開く
 	Organize	整理
 	other changes	その他の変更
 	page content	ページ内容
@@ -3929,10 +3929,10 @@ calendar date	October	10月
 	pages added or removed	ページが追加または削除されました
 	Panel layout could not be restored: {error}	パネルのレイアウトを復元できませんでした: {error}
 	Panel move was not applied: {error}	パネルの移動が適用されませんでした: {error}
-	PdfCraft can't check this signature yet: {}.	PdfCraft はこの署名をまだ確認できません: {}.
+	PdfCraft can't check this signature yet: {}.	PdfCraft はこの署名をまだ確認できません: {}。
 	Previous (⇧⌘G)	前へ (⇧⌘G)
 	Print (⌘P)	印刷 (⌘P)
-	Producer	作成者
+	Producer	PDF変換ソフト
 certificate	Public key	公開鍵
 	Redo {action}	{action}をやり直し
 	Rendering…	レンダリング中…
@@ -3976,7 +3976,7 @@ calendar weekday	Th	木
 	The document has been altered since this signature was applied in ways it does not permit ({}).	この署名が適用されてから、許可されていない方法でドキュメントが変更されました（{}）。
 	The document has been altered since this timestamp was applied in ways it does not permit ({}).	このタイムスタンプが適用されてから、許可されていない方法でドキュメントが変更されました（{}）。
 	The document has been modified since this signature was applied, but the changes are permitted ({}).	この署名が適用されてからドキュメントが変更されましたが、その変更は許可されています（{}）。
-	The document has been modified since this timestamp was applied, but the changes are permitted ({}).	このタイムスタンプの適用後にドキュメントが変更されましたが、変更は許可されています ({}).
+	The document has been modified since this timestamp was applied, but the changes are permitted ({}).	このタイムスタンプの適用後にドキュメントが変更されましたが、変更は許可されています ({})。
 	The document has no tags (structure tree)	ドキュメントにタグ（構造ツリー）がありません
 	The document has no title	ドキュメントにタイトルがありません
 	The document isn't marked as tagged (MarkInfo Marked)	ドキュメントにタグ付けのマークがありません (MarkInfo Marked)
@@ -4033,7 +4033,8 @@ calendar weekday	Th	木
 	This signature uses RIPEMD-160, a legacy 160-bit hash algorithm that is no longer recommended for signatures. It still validates, but it should not be relied on.	この署名は、署名には推奨されないレガシーな 160 ビットのハッシュアルゴリズムである RIPEMD-160 を使用しています。引き続き検証は可能ですが、信頼すべきではありません。
 	This signature uses SHA-1, a weak hash algorithm: collisions in it have been demonstrated. It still validates because many documents signed years ago use it, but it should not be relied on.	この署名は、衝突が実証されている脆弱なハッシュアルゴリズムである SHA-1 を使用しています。数年前に署名された多くのドキュメントがこれを使用しているため、引き続き検証は可能ですが、信頼すべきではありません。
 	Too many windows for this document	このドキュメントに対してウィンドウが多すぎます
-calendar weekday	Tu	Tu
+calendar weekday	Tu	火
+calendar weekday	We	水
 	Unsigned signature field	未署名の署名フィールド
 	Unsigned signature field: {name}	未署名の署名フィールド: {name}
 certificate	Valid from	有効開始日
@@ -4052,8 +4053,8 @@ certificate	Version	バージョン
 	{ty} element: {what}	{ty} 要素: {what}
 	{who}, certificate issued by an unknown issuer.	{who}、不明な発行元によって発行された証明書です。
 	{who}, certificate issued by {issuer}.	{who}、{issuer} によって発行された証明書です。
-	{} annotation on page {p} isn't tagged	ページ {p} の {} アノテーションにタグが付けられていません
-	{} annotations aren't allowed	{} アノテーションは許可されていません
+	{} annotation on page {p} isn't tagged	ページ {p} の {} 注釈にタグが付けられていません
+	{} annotations aren't allowed	{} 注釈は許可されていません
 	… and {n} more	… とあと {n} 件
 	1 line	1 行
 	a table has 1 to {max} columns	テーブルは 1 ～ {max} 列です
@@ -4129,7 +4130,7 @@ certificate	Version	バージョン
 	A picture with a decode array or a colour-key mask can't be converted to CMYK yet	デコード配列またはカラーキーマスクを持つ画像は、まだ CMYK に変換できません
 	A picture with other than 8 bits per component can't be converted to CMYK yet	コンポーネントあたりのビット数が8ビット以外の画像は、まだCMYKに変換できません
 	A picture's data can't be read, so it can't be converted to CMYK	画像のデータを読み取れないため、CMYKに変換できません
-	A PrinterMark annotation overlaps the TrimBox or ArtBox	PrinterMarkアノテーションがTrimBoxまたはArtBoxと重なっています
+	A PrinterMark annotation overlaps the TrimBox or ArtBox	PrinterMark注釈がTrimBoxまたはArtBoxと重なっています
 	a second {} in its table	テーブル内に2つ目の {} があります
 	A shading in RGB or device-independent colour can't be converted to CMYK yet	RGBまたはデバイスに依存しない色のシェーディングは、まだCMYKに変換できません
 	A shading uses {} colour	シェーディングが {} 色を使用しています
@@ -4137,8 +4138,8 @@ certificate	Version	バージョン
 	A shading's colour function can't be resampled into CMYK exactly	シェーディングのカラー関数を正確にCMYKへリサンプリングできません
 	A shading's data can't be read, so it can't be converted to CMYK	シェーディングのデータを読み取れないため、CMYKに変換できません
 	A stream uses JBIG2 compression	ストリームがJBIG2圧縮を使用しています
-	A {} annotation lies inside the trim	{} アノテーションがトリム内にあります
-	A {} annotation lies within the BleedBox	{} アノテーションがBleedBox内にあります
+	A {} annotation lies inside the trim	{} 注釈がトリム内にあります
+	A {} annotation lies within the BleedBox	{} 注釈がBleedBox内にあります
 	A {} colour space's parameters can't be read	{} カラースペースのパラメータを読み取れません
 	Accessibility Checker rules	アクセシビリティ・チェッカーのルール
 	An image has a soft mask	画像にソフトマスクが含まれています
@@ -4148,12 +4149,12 @@ certificate	Version	バージョン
 	An inline image uses {} colour	インライン画像に {} 色が使用されています
 	An object has additional actions (/AA)	オブジェクトに追加のアクション (/AA) があります
 	An optional content configuration has an AS entry	オプションコンテンツの設定にASエントリがあります
-	Annotations inside the trim	トリム内にアノテーションがあります
+	Annotations inside the trim	トリム内に注釈があります
 	Apply preflight fixups	プリフライトの修正を適用
 	Bitmap images	ビットマップ画像
 	Bleed	塗り足し
 	Checking for a newer version…	新しいバージョンを確認中…
-	Checks a file for CMYK printing: fonts, colour, image resolution, hairlines, transparency, page boxes, encryption, JavaScript, annotations, Trapped and the PDF version	CMYK印刷のチェック：フォント、色、画像解像度、ヘアライン、透明度、ページボックス、暗号化、JavaScript、アノテーション、トラップ、およびPDFバージョン
+	Checks a file for CMYK printing: fonts, colour, image resolution, hairlines, transparency, page boxes, encryption, JavaScript, annotations, Trapped and the PDF version	CMYK印刷のチェック：フォント、色、画像解像度、ヘアライン、透明度、ページボックス、暗号化、JavaScript、注釈、トラップ、およびPDFバージョン
 	Checks not run	チェック未実行
 	Checks passed	チェック合格
 	Clause	条項
@@ -4239,7 +4240,7 @@ certificate	Version	バージョン
 	not in a Ruby	ルビに含まれていません
 	not in a Table	表に含まれていません
 	not in a TOC	目次に含まれていません
-	not in a Warichu	和文縦中横に含まれていません
+	not in a Warichu	割注に含まれていません
 	not the first child of its list	リストの最初の要素ではありません
 	not the first or last child of its table	表の最初または最後の要素ではありません
 	Optional content configuration {n} has no Name	オプションのコンテンツ設定 {n} に名前がありません
@@ -4326,7 +4327,7 @@ certificate	Version	バージョン
 	The PDF/X output intent has no OutputConditionIdentifier	PDF/X 出力インテントに OutputConditionIdentifier がありません
 	The resolution of an image can't be measured	画像の解像度が測定できません
 	The reverse sides were cancelled: their document was closed.	裏面の処理がキャンセルされました：ドキュメントが閉じられました。
-	The role map maps {} in a circle	ロールマップが {} を円内にマッピングしています
+	The role map maps {} in a circle	ロールマップで {} がループしています
 	The scan was stopped: its document was closed.	スキャンが停止されました：ドキュメントが閉じられました。
 	The spot colour {} has an alternate that can't be converted to CMYK yet	スポットカラー {} に、まだ CMYK に変換できない代替カラーがあります
 	The standard structure type {} is mapped to a type that isn't standard	標準的な構造タイプ {} が、標準ではないタイプにマッピングされています
@@ -4365,8 +4366,8 @@ certificate	Version	バージョン
 	{type} has {count} elements, but they come in sets of {n}	{type} には {count} 個の要素がありますが、これらは {n} 個ずつのセットで構成されています
 	{type} has {count} elements, more than the {max} it allows	{type} には {count} 個の要素があり、許容される最大数 {max} を超えています
 	{type} lacks the required entry {key}	{type} に必要なエントリ {key} がありません
-	{} annotation on page {p} is in a {ty} tag, not {want}	ページ {p} の {} アノテーションは {ty} タグであり、{want} ではありません
-	{} annotation on page {p}: its description has no language (Lang)	ページ {p} の {} アノテーション: 説明に言語（Lang）が設定されていません
+	{} annotation on page {p} is in a {ty} tag, not {want}	ページ {p} の {} 注釈は {ty} タグであり、{want} ではありません
+	{} annotation on page {p}: its description has no language (Lang)	ページ {p} の {} 注釈: 説明に言語（Lang）が設定されていません
 	{} colour can't be converted to CMYK yet	{} カラーはまだ CMYK に変換できません
 	{} colour doesn't match the output intent's colour space	{} カラーは出力インテントのカラースペースと一致しません
 	{} compliance	{} コンプライアンス
@@ -4375,8 +4376,8 @@ certificate	Version	バージョン
 	 ({n} left as they are)	 ({n} 件はそのまま保持)
 	; 1 image downsampled	; 1 枚の画像をダウンサンプリング
 	; 1 signed file kept its images	; 1 件の署名済みファイルは画像を保持しました
-	; converted to {level}, but not everything complies yet ({first}); see Apply PDF standards ▸ Save as PDF/A	; {level} に変換されましたが、まだ完全には準拠していません ({first})。PDF標準を適用 ▸ PDF/Aとして保存 を参照してください
-	; not PDF/A yet: {list} (open them in Apply PDF standards ▸ Save as PDF/A)	; まだ PDF/A ではありません: {list} (PDF標準を適用 ▸ PDF/Aとして保存 で開いてください)
+	; converted to {level}, but not everything complies yet ({first}); see Apply PDF standards ▸ Save as PDF/A	; {level} に変換されましたが、まだ完全には準拠していません ({first})。PDF標準を適用 → PDF/Aとして保存 を参照してください
+	; not PDF/A yet: {list} (open them in Apply PDF standards ▸ Save as PDF/A)	; まだ PDF/A ではありません: {list} (PDF標準を適用 → PDF/Aとして保存 で開いてください)
 	; not saved as {level}: {why}	; {level} として保存されていません: {why}
 	; saved as {level}	; {level} として保存
 	; the document is signed, so its images were left as they are	; ドキュメントに署名があるため、画像はそのまま保持されます
@@ -4400,8 +4401,8 @@ certificate	Version	バージョン
 	Drag a guide out of a ruler onto a page; hold Shift as you drop it to put it on every page. Drag it back onto a ruler to remove it, or right-click it for its colour, thickness and label. Guides and the grid are never saved in the PDF.	ルーラーからページへガイドをドラッグして配置します。Shift を押しながらドロップすると、すべてのページに配置されます。ルーラーに戻すと削除され、右クリックで色、太さ、ラベルを変更できます。ガイドとグリッドは PDF には保存されません。
 	Drag a guide to move it. Drag it back onto a ruler, or off the page, to remove it.	ガイドをドラッグして移動します。ルーラーに戻すか、ページの外へドラッグすると削除されます。
 	Drag from a ruler onto a page to place a guide: from the top ruler for a horizontal one, from the left ruler for a vertical one. Hold Shift as you drop it to put it on every page.	ルーラーからページへドラッグしてガイドを配置します。上のルーラーからは水平ガイド、左のルーラーからは垂直ガイドが配置されます。Shift を押しながらドロップすると、すべてのページに配置されます。
-	Each set is a text file in	各セットは以下の形式のテキストファイルです：
-	Each set is a text file in the guide-set folder (Preferences ▸ Units and guides ▸ Open folder). Edit it in any text editor, send it to others, or drop theirs into the folder, then click Reload. Distances are measured from the edge you name, so a set fits other page sizes.	各セットはガイドセットフォルダ（環境設定 ▸ 単位とガイド ▸ フォルダを開く）内のテキストファイルです。テキストエディタで編集して他の人に送ることもできますし、他の人のファイルをフォルダにドラッグ＆ドロップして「再読み込み」をクリックすることもできます。距離は指定した端からの距離で測定されるため、セットは他のページサイズにも適合します。
+	Each set is a text file in	各セットは次のフォルダー内のテキストファイルです：
+	Each set is a text file in the guide-set folder (Preferences ▸ Units and guides ▸ Open folder). Edit it in any text editor, send it to others, or drop theirs into the folder, then click Reload. Distances are measured from the edge you name, so a set fits other page sizes.	各セットはガイドセットフォルダ（環境設定 → 単位とガイド → フォルダを開く）内のテキストファイルです。テキストエディタで編集して他の人に送ることもできますし、他の人のファイルをフォルダにドラッグ＆ドロップして「再読み込み」をクリックすることもできます。距離は指定した端からの距離で測定されるため、セットは他のページサイズにも適合します。
 	Edge shadow removal	端の影を削除
 	Edit in document	ドキュメント内で編集
 	Enhance	補正
@@ -4446,7 +4447,7 @@ certificate	Version	バージョン
 	Replace this document's guides with the set's, to move and change them	ドキュメントのガイドをセットのガイドに置き換えて、移動や変更を可能にします
 	Restore defaults	デフォルトを復元
 	Right-click a guide for a colour, Properties… (colour, thickness, label, every page) and Delete. Double-click opens Properties too.	ガイドを右クリックすると、色、プロパティ…（色、太さ、ラベル、すべてのページ）、および削除のオプションが表示されます。ダブルクリックでもプロパティを開けます。
-	Right-click a ruler ▸ Save guides as a set… keeps the guides, the unit and, if you like, the grid under a name and a shortcut. {first} … {last} shows and hides a set over any document; Edit in document turns it back into guides you can move.	定規を右クリック ▸ 「ガイドをセットとして保存…」を使用すると、ガイド、単位、および（必要に応じて）グリッドを名前とショートカットで保存できます。{first} … {last} は、どのドキュメントに対してもセットを表示または非表示にします。「ドキュメント内で編集」を選択すると、再び移動可能なガイドに戻ります。
+	Right-click a ruler ▸ Save guides as a set… keeps the guides, the unit and, if you like, the grid under a name and a shortcut. {first} … {last} shows and hides a set over any document; Edit in document turns it back into guides you can move.	定規を右クリック → 「ガイドをセットとして保存…」を使用すると、ガイド、単位、および（必要に応じて）グリッドを名前とショートカットで保存できます。{first} … {last} は、どのドキュメントに対してもセットを表示または非表示にします。「ドキュメント内で編集」を選択すると、再び移動可能なガイドに戻ります。
 	Rulers, guides and grid	定規、ガイド、グリッド
 	Save guides as a set	ガイドをセットとして保存
 	Save guides as a set…	ガイドをセットとして保存…
@@ -4456,7 +4457,7 @@ certificate	Version	バージョン
 	Show grid	グリッドを表示
 	Show guides	ガイドを表示
 	Snap to grid	グリッドにスナップ
-	Spacing, offset, subdivisions, colour and thickness are in Preferences ▸ Units and guides.	間隔、オフセット、分割、色、および太さは、環境設定 ▸ 単位とガイド で設定できます。
+	Spacing, offset, subdivisions, colour and thickness are in Preferences ▸ Units and guides.	間隔、オフセット、分割、色、および太さは、環境設定 → 単位とガイド で設定できます。
 	Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight	湾曲、折り曲げ、または斜めに撮影されたページを補正し、テキスト行をまっすぐにします
 	The document changed while its text was being recognized, so nothing was added. Run Recognize text again.	テキスト認識中にドキュメントが変更されたため、何も追加されませんでした。もう一度「テキストを認識」を実行してください。
 	The edited text is set in {font} instead of its own font.	編集されたテキストは、元のフォントではなく {font} で設定されています。
@@ -4465,9 +4466,9 @@ certificate	Version	バージョン
 	Tint Strength	ティントの強さ
 	Units and guides	単位とガイド
 	Use the default look	デフォルトの外観を使用
-	View ▸ Grid ({grid}) draws a grid over the pages; View ▸ Snap to grid ({snap}) makes a dragged guide snap to it.	表示 ▸ グリッド ({grid}) はページ上にグリッドを描画します。表示 ▸ グリッドにスナップ ({snap}) を有効にすると、ドラッグしたガイドがグリッドにスナップします。
-	View ▸ Guides ({guides}) hides and shows them; View ▸ Clear guides removes this document's guides. Guides are never saved in the PDF.	表示 ▸ ガイド ({guides}) はガイドの表示/非表示を切り替えます。表示 ▸ ガイドをクリアは、このドキュメントのガイドを削除します。ガイドは PDF には保存されません。
-	View ▸ Rulers ({rulers}) shows a ruler above and beside the pages. Click the corner between them to step to the next unit, or right-click a ruler to choose one.	表示 ▸ ルーラー ({rulers}) はページの上部と横にルーラーを表示します。角の部分をクリックすると次の単位に切り替わり、ルーラーを右クリックすると単位を選択できます。
+	View ▸ Grid ({grid}) draws a grid over the pages; View ▸ Snap to grid ({snap}) makes a dragged guide snap to it.	表示 → グリッド ({grid}) はページ上にグリッドを描画します。表示 → グリッドにスナップ ({snap}) を有効にすると、ドラッグしたガイドがグリッドにスナップします。
+	View ▸ Guides ({guides}) hides and shows them; View ▸ Clear guides removes this document's guides. Guides are never saved in the PDF.	表示 → ガイド ({guides}) はガイドの表示/非表示を切り替えます。表示 → ガイドをクリアは、このドキュメントのガイドを削除します。ガイドは PDF には保存されません。
+	View ▸ Rulers ({rulers}) shows a ruler above and beside the pages. Click the corner between them to step to the next unit, or right-click a ruler to choose one.	表示 → ルーラー ({rulers}) はページの上部と横にルーラーを表示します。角の部分をクリックすると次の単位に切り替わり、ルーラーを右クリックすると単位を選択できます。
 	Warm Sepia	ウォームセピア
 	With the control channel on, ui.state lists every guide (in the set format, and where it lies on screen) and the sets with their files and errors. ui.set document-guides <set as JSON or TOML> replaces the document's guides, guide-set <name>:on|off|toggle shows a set, guide-set-file <set> saves one, and guides, grid and snap-to-grid take on or off.	コントロールチャンネルがオンの場合、ui.state はすべてのガイド（セット形式および画面上の位置）と、ファイルおよびエラーを含むセットをリスト表示します。ui.set document-guides <JSONまたはTOML形式のセット> はドキュメントのガイドを置換し、guide-set <name>:on|off|toggle はセットを表示し、guide-set-file <set> は1つのセットを保存します。また、guides、grid、snap-to-grid は on または off に設定できます。
 	{first} … {last} shows and hides the set with that shortcut. Set files can be edited in any text editor and shared with others; click Reload after changing them.	{first} … {last} は、そのショートカットでセットの表示/非表示を切り替えます。セットファイルは任意のテキストエディタで編集して他のユーザーと共有できます。変更した後は「再読み込み」をクリックしてください。
@@ -4482,7 +4483,7 @@ certificate	Version	バージョン
 	Layout & Sizing	レイアウトとサイズ
 	Prints only the area you dragged on the page, fitted to the sheet without stretching.	ページ上でドラッグした範囲のみを、引き伸ばさずに用紙に合わせて印刷します。
 	Selected area	選択された範囲
-	Another link request is awaiting your permission. Respond to it, then try opening the document again.	別のリンク要求が承認待ちです。承認してから、もう一度ドキュメントの開き直してください。
+	Another link request is awaiting your permission. Respond to it, then try opening the document again.	別のリンク要求が承認待ちです。承認してから、もう一度ドキュメントを開き直してください。
 	Drag to move; double-click to put it back	ドラッグで移動、ダブルクリックで元の位置に戻す
 	Interactive JavaScript menus require the desktop application	インタラクティブな JavaScript メニューにはデスクトップ版アプリが必要です
 	Move the format bar	フォーマットバーを移動
