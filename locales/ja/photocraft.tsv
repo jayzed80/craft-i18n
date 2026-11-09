@@ -3428,7 +3428,6 @@ cameraRaw	Blue	青
 	Change…	変更…
 	Choose Folder	フォルダーを選択
 cameraRaw	Clarity	明瞭度
-	Clear Selection	選択を解除
 	Clipping Path…	クリッピングパス…
 	Clone source set at {x}, {y}	コピー元を {x}, {y} に設定しました
 	Close Window	ウィンドウを閉じる
@@ -3684,7 +3683,6 @@ cameraRaw	Size	サイズ
 	Solarized Dark	Solarized Dark
 	Space	スペース
 	Step {step} ({id}) failed: {error}	ステップ {step} ({id}) が失敗しました: {error}
-	Subtract Shapes at Overlap	重なり部分をシェイプから削除
 	Tablet	タブレット
 	Target Channel 3	ターゲットチャンネル 3
 	Target Channel 4	ターゲットチャンネル 4
@@ -3717,7 +3715,6 @@ cameraRaw	Tint	色合い
 	Toggle the Brush Settings panel	ブラシ設定パネルを切り替え
 	Tool Options	ツールオプション
 	Transformation	変形
-	Unite Shapes at Overlap	重なり部分でシェイプを結合
 	unknown	不明
 	unknown type	不明なタイプ
 	Unlink	リンク解除
