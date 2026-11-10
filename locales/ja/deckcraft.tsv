@@ -24,7 +24,7 @@
 	3-D Format	3D書式
 	3-D Rotation	3D回転
 	About DeckCraft	DeckCraftについて
-	Accept	承諾
+	Accept	承認
 	Accept Revision	変更を承認
 	Accept\nAll	すべて\n承認
 	Accessibility Checker	アクセシビリティ・チェッカー
@@ -163,11 +163,11 @@
 	DeckCraft prints through a PDF: it opens in your PDF viewer, where you choose the printer.	DeckCraftはPDF経由で印刷します。PDFビューアで開き、そこでプリンターを選択します。
 	Decrease List Level	リストのレベルを下げる
 	Decrease {label}	{label} を減らす
-	Default tab stops (in):	デフォルトのタブ設定（インチ）:
+	Default tab stops (in):	既定のタブ位置 (インチ):
 	Delay	遅延
 	Delay:	遅延:
 	Delete Columns	列を削除
-	Delete Comment	注釈を削除
+	Delete Comment	コメントを削除
 	Delete cropped areas of pictures	画像の切り抜き領域を削除
 	Delete Guide	ガイドを削除
 	Delete Layout	レイアウトを削除
@@ -208,7 +208,7 @@
 	Email address:	メールアドレス:
 	End Review	レビューを終了
 	End Show	スライドショーを終了
-	End trim (s):	終了（秒）:
+	End trim (s):	終了トリム (秒):
 	End\nReview	レビューを\n終了
 	Equation	数式
 	Exit Edit Points	ポイント編集を終了
@@ -440,7 +440,7 @@
 	Print them for your audience	視聴者向けに印刷する
 	Product Information	製品情報
 	Program:	プログラム:
-	Promote	レベル上げ
+	Promote	レベルを上げる
 	Put a picture in the selected node's picture placeholder	選択したノードのプレースホルダーに画像を挿入
 	Quick Access Toolbar	クイックアクセスツールバー
 	Quick Styles	クイックスタイル
@@ -586,9 +586,9 @@
 	Split\nCells	セルの\n分割
 	Standard Colors	標準色
 	Start Automatically	自動開始
-	Start time (s):	開始時間 (s):
+	Start time (s):	開始時間 (秒):
 	System language	システム言語
-	Tab stop position (in):	タブ停止位置 (in):
+	Tab stop position (in):	タブ位置 (インチ):
 	Tab stops:	タブ停止
 	Table Design	テーブルデザイン
 	Table Eraser	表の消しゴム
@@ -616,7 +616,7 @@
 	Theme Colors	テーマカラー
 	Themes	テーマ
 	Themes (whole presentation)	テーマ（プレゼンテーション全体）
-	This presentation has no custom shows (Slide Show ▸ Custom Slide Show).	このプレゼンテーションにはカスタムスライドショー（スライドショー ▸ カスタムスライドショー）がありません。
+	This presentation has no custom shows (Slide Show ▸ Custom Slide Show).	このプレゼンテーションにはカスタムスライドショー（スライドショー → カスタムスライドショー）がありません。
 	Three a page leaves lines for notes	1 ページに 3 枚の場合はメモ用の罫線が入ります
 	Tile picture as texture	画像をテクスチャとしてタイル表示
 	Timing	タイミング
