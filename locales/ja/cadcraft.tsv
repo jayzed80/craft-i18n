@@ -26,7 +26,7 @@
 	3 Viewports	3 ビューポート
 	3D Face	3Dフェイス
 	3D Mouse	3Dマウス
-	3D mouse busy, possibly 3DxWare or missing device permissions	3D マウスが使用中です。3DxWare が使用しているか、デバイスの権限が不足している可能性があります
+	3D mouse busy, possibly 3DxWare or missing device permissions	3Dマウスが使用中です。3DxWare が使用しているか、デバイスの権限が不足している可能性があります
 	3D mouse connected	3Dマウスが接続されました
 	3D mouse disconnected	3Dマウスが切断されました
 	3D mouse input could not be started	3Dマウスの入力を開始できませんでした
@@ -70,7 +70,7 @@
 	Attribute Display	属性表示
 	Audit	監査
 	Auto (system language)	自動 (システム言語)
-	Auto Constrain	自動制約
+	Auto Constrain	自動拘束
 	AutoConstrain	自動拘束
 	Automatic save every	自動保存の間隔:
 	Automatic save file location	自動保存ファイルの場所
@@ -89,8 +89,8 @@
 	Boundary	境界
 	Boundary...	境界...
 	Box	ボックス
-	Break	改行
-	Break At Point	ポイントで改行
+	Break	切断
+	Break At Point	点で切断
 	Bring Above Objects	オブジェクトの前面へ移動
 	Bring Annotations to Front	注釈を最前面へ移動
 	Bulleted list	箇条書き
@@ -245,7 +245,6 @@ menu	Draw	描画
 	Enter a vertex editing option	頂点編集のオプションを入力
 	Enter an option	オプションを入力
 	Enter angle of xline	補助線の角度を入力
-	Enter angle of xline (0) or	補助線の角度を入力 (0)、または
 	Enter area of rectangle in current units	現在の単位での長方形の面積を入力
 	Enter attribute prompt	属性プロンプトを入力
 	Enter attribute tag name	属性タグ名を入力
@@ -256,7 +255,6 @@ menu	Draw	描画
 	Enter default attribute value	デフォルトの属性値を入力
 	Enter degree of spline	スプラインの次数を入力
 	Enter delta angle	デルタ角を入力
-	Enter delta length or	デルタ長を入力、または
 	Enter dimension text	寸法テキストを入力
 	Enter dimension text (<> = measurement)	寸法テキストを入力 (<> = 測定値)
 	Enter dimension value or [name=expression]	寸法値または [name=expression] を入力
@@ -362,7 +360,7 @@ menu	Draw	描画
 	Increment angle	増分角度
 	Index Color	インデックスカラー
 	Index color: {index}	インデックスカラー: {index}
-	Infer Constraints	制約を推測
+	Infer Constraints	拘束を推測
 	Inquiry	照会
 	Insert Block	ブロックを挿入
 	Insert Column	列を挿入
@@ -374,7 +372,7 @@ menu	Draw	描画
 	Insertion X	挿入 X
 	Insertion Y	挿入 Y
 	Insertion Z	挿入 Z
-	Inspect Constraints	制約を検査
+	Inspect Constraints	拘束を検査
 	Inspect Drawing	図面を検査
 	Inspection	検査
 	Interface theme	インターフェースのテーマ
@@ -484,7 +482,7 @@ menu	Modify	修正
 	New Viewports...	新規ビューポート...
 	New VP Freeze	新規 VP フリーズ
 	No blocks defined in this drawing.	この図面にはブロックが定義されていません。
-	No contributor data was built into this copy.	このコピーには作成者データが含まれていません。
+	No contributor data was built into this copy.	このコピーには貢献者データが含まれていません。
 	No external references are attached.	外部参照は添付されていません。
 	No model credits were built into this copy.	このコピーにはモデルのクレジットが含まれていません。
 	No plot style tables.	プロットスタイルテーブルがありません。
@@ -620,7 +618,7 @@ menu	Modify	修正
 	Region/Mass Properties	領域/質量プロパティ
 	Reinitialize	再初期化
 	Relative to last segment	最後のセグメントを基準にする
-	Release the 3D mouse to calibrate its resting position	3D マウスから手を離して、静止位置をキャリブレーションしてください
+	Release the 3D mouse to calibrate its resting position	3Dマウスから手を離して、静止位置をキャリブレーションしてください
 	Reload All	すべてを再読み込み
 	Remove Leader	引き出し線を削除
 	Remove the viewport override	ビューポートのオーバーライドを解除
@@ -678,8 +676,6 @@ menu	Modify	修正
 	Select an arc or circle	円弧または円を選択
 	Select an arc.	円弧を選択します。
 	Select an object	オブジェクトを選択
-	Select an object to change or	変更するオブジェクトを選択、または
-	Select an object to measure or	測定するオブジェクトを選択、または
 	Select an object.	オブジェクトを選択します。
 	Select an open curve.	開いた曲線を選択します。
 	Select an open line, arc, polyline, ellipse arc or spline.	開いた線、円弧、ポリライン、楕円の弧またはスプラインを選択します。
@@ -693,9 +689,7 @@ menu	Modify	修正
 	Select first line	最初の線を選択
 	Select first line or arc	最初の線または円弧を選択
 	Select first object	最初のオブジェクトを選択
-	Select first object or	最初のオブジェクトを選択、または
 	Select first point	最初の点を選択
-	Select nested objects to copy or	コピーする入れ子のオブジェクトを選択、または
 	Select object	オブジェクトを選択
 	Select object to dimension	寸法を記入するオブジェクトを選択
 	Select object to divide	分割するオブジェクトを選択
@@ -710,7 +704,6 @@ menu	Modify	修正
 	Select one polyline (Multiple is available through the JSON form).	ポリラインを1つ選択（JSONフォームから複数選択も可能です）。
 	Select path curve	パスカーブを選択
 	Select point or object	ポイントまたはオブジェクトを選択
-	Select polyline or	ポリラインまたは
 	Select second line	2番目のラインを選択
 	Select second line or shift-select to apply corner	2本目のラインを選択するか、Shiftキーを押しながら選択してコーナーを適用
 	Select second object	2つ目のオブジェクトを選択
@@ -774,9 +767,7 @@ menu	Modify	修正
 	Specify axis endpoint of ellipse	楕円の軸の端点を指定
 	Specify base diameter	基準直径を指定
 	Specify base point	基準点を指定
-	Specify base point or	基準点を指定、または
 	Specify base point or displacement (drag with the middle mouse button for realtime pan)	基準点または変位を指定（中央マウスボタンでドラッグするとリアルタイムにパンします）
-	Specify base radius or	底面の半径を指定、または
 	Specify center of donut	ドーナツの中心を指定
 	Specify center of ellipse	楕円の中心を指定
 	Specify center of polygon	ポリゴンの中心を指定
@@ -808,7 +799,7 @@ menu	Modify	修正
 	Specify first constraint point	最初の拘束点を指定
 	Specify first corner	最初のコーナーを指定
 	Specify first corner point	最初のコーナー点を指定
-	Specify first destination point	最初の目的地を指定
+	Specify first destination point	最初の移動先の点を指定
 	Specify first end point of circle's diameter	円の直径の 1 つ目の端点を指定
 	Specify first endpoint of edge	エッジの 1 つ目の端点を指定
 	Specify first extension line origin	1 本目の寸法補助線の起点を指定
@@ -818,7 +809,6 @@ menu	Modify	修正
 	Specify first point on circle: _tan to	円上の 1 点目を指定: _tan to
 	Specify first source point	最初の始点を指定
 	Specify height	高さを指定
-	Specify helix height or	らせんの高さを指定、または
 	Specify included angle	挟角を指定
 	Specify insertion base point	挿入基点を指定
 	Specify insertion point	挿入点を指定
@@ -837,7 +827,6 @@ menu	Modify	修正
 	Specify new width for all segments	すべてのセグメントの新しい幅を指定
 	Specify next point	次の点を指定
 	Specify offset distance	オフセット距離を指定
-	Specify offset distance or	オフセット距離を指定、または
 	Specify opposite corner	対角の角を指定
 	Specify other corner point	別の角の点を指定
 	Specify other endpoint of axis	軸の別の終点を指定
@@ -850,7 +839,6 @@ menu	Modify	修正
 	Specify radius of circle	円の半径を指定
 	Specify rotation angle	回転角度を指定
 	Specify rotation angle of text	テキストの回転角度を指定
-	Specify rotation angle or	回転角度を指定、または
 	Specify scale factor	スケール係数を指定
 	Specify second angle endpoint	角度の 2 つ目の端点を指定
 	Specify second break point	2つ目の分割点を指定
@@ -883,9 +871,7 @@ menu	Modify	修正
 	Specify third source point or <continue>	3つ目のソースポイントを指定、または <continue>
 	Specify through point	通過点を指定
 	Specify top diameter	上部の直径を指定
-	Specify top radius or	上部の半径を指定、または
 	Specify total angle	全角度を指定
-	Specify total length or	全長を指定、または
 	Specify width for rectangles	長方形の幅を指定
 	Sphere	球
 	Spline	スプライン
@@ -991,7 +977,6 @@ menu	View	表示
 	Volume	ボリューム
 	VP Color	VP カラー
 	VP Freeze	VP フリーズ
-	WCS ⌄	WCS ⌄
 	Width factor	幅の係数
 	Wipeout	ワイプアウト
 	Workspace Switching	ワークスペースの切り替え
@@ -1011,7 +996,7 @@ menu	View	表示
 	{name}: {distance} < {angle}°	{name}: {distance} < {angle}°
 	ƒx  New User Parameter	ƒx  新規ユーザーパラメータ
 	ΔLOC	ΔLOC
-	−LOC	−行
+	−LOC	−LOC
 	⌘↩ to finish	⌘↩ で完了
 	Add to Working Set	作業セットに追加
 	Add: Pick points	追加: ポイントを選択
@@ -1059,7 +1044,7 @@ menu	View	表示
 	Island detection	アイランド検出
 	Load Application...	アプリケーションをロード...
 	Multiline text	マルチラインテキスト
-	N	N
+	N	北
 	New block	新しいブロック
 	Not a number or distance: {text}	数値または距離ではありません: {text}
 	Object grouping	オブジェクトのグループ化
@@ -1070,7 +1055,7 @@ menu	View	表示
 	Outer	外側
 	Overline	オーバーライン
 	Query Texts	テキストを照会
-	S	S
+	S	南
 	Save Block	ブロックを保存
 	Save Block As	ブロックに名前を付けて保存
 	Save Reference Edits	リファレンスの編集を保存
@@ -1082,7 +1067,7 @@ menu	View	表示
 	Selection Preview Filter	選択プレビューフィルター
 	Set Dynamic Property	動的プロパティを設定
 	Sheet Books to PDF...	シートブックをPDFに変換...
-	Show grips	ハンドルを表示
+	Show grips	グリップを表示
 	Specified origin	指定した原点
 	Spherical	球面
 	This drawing	この図面
@@ -1091,11 +1076,11 @@ menu	View	表示
 	Use current origin	現在の原点を使用
 	Visual Effect Settings	ビジュアルエフェクト設定
 	Visual Effect Settings...	ビジュアルエフェクト設定...
-	W	W
+	W	西
 	When a command is active	コマンドがアクティブなとき
 	When no command is active	コマンドがアクティブでないとき
 	Window selection color:	ウィンドウ選択色:
-	Working Set	ワーキングセット
+	Working Set	作業セット
 	Xref and Block In-place Editing	外部参照およびブロックのインプレース編集
 	Xrefs	外部参照
 	Geometry	ジオメトリ
