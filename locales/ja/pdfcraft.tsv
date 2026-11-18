@@ -4173,7 +4173,8 @@ certificate	Version	バージョン
 	Delete lines	行を削除
 	Device-independent colour is used, so the output intent needs an embedded profile	デバイスに依存しないカラーが使用されているため、出力インテントには埋め込みプロファイルが必要です
 	DisplayDocTitle isn't true: the window shows the file name	DisplayDocTitle が true ではありません：ウィンドウにはファイル名が表示されています
-	Document: {name}	ドキュメント: {name}
+	This document's script is asking	この文書のスクリプトからの質問
+	Document: {name}	文書: {name}
 	Embedded file "{}": its file specification lacks F or UF	埋め込みファイル "{}"：ファイル仕様に F または UF がありません
 	Field "{}" on page {p} has no description (TU), and its tag no alternate text	ページ {p} のフィールド "{}" に説明 (TU) がなく、タグに代替テキストがありません
 	Field "{}" on page {p}: its description has no language (Lang)	ページ {p} のフィールド "{}"：説明に言語 (Lang) がありません
@@ -4555,3 +4556,4 @@ certificate	Version	バージョン
 	Translating…	翻訳中…
 	Unit:	単位:
 	Chinese (Simplified) and English	中国語（簡体字）および英語
+	This request comes from the document, not PdfCraft. Only enter a password if you trust this document.	この要求は PdfCraft ではなく文書から送られています。この文書を信頼できる場合にのみパスワードを入力してください。
